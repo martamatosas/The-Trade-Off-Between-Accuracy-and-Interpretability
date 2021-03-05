@@ -33,7 +33,6 @@ The project is partially based on previous work where the dataset was preprocess
 optimized by hyperparameter tuning.
 
 **Conclusions:**
-
 Frequentist Framework:
 In the frequentist framework, Shapley Additive Explanations (SHAP) proved to be a powerful method to increase interpretability of opaque models, in this case, ensemble
 methods.
